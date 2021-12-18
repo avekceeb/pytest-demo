@@ -1,0 +1,17 @@
+*.pyc
+a.out
+*.o
+*.so
+*.a
+*.bin
+*.testbin
+*.log
+.idea
+.settings
+.cproject
+.project
+.pytest_cache
+__pycache__
+venv
+todo
+
